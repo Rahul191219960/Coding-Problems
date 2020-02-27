@@ -1,0 +1,11 @@
+G:\Study\Projects\DotNet_C#\CodingProblems\bin\Debug\netcoreapp2.2\CodingProblems.deps.json
+G:\Study\Projects\DotNet_C#\CodingProblems\bin\Debug\netcoreapp2.2\CodingProblems.runtimeconfig.json
+G:\Study\Projects\DotNet_C#\CodingProblems\bin\Debug\netcoreapp2.2\CodingProblems.runtimeconfig.dev.json
+G:\Study\Projects\DotNet_C#\CodingProblems\bin\Debug\netcoreapp2.2\CodingProblems.dll
+G:\Study\Projects\DotNet_C#\CodingProblems\bin\Debug\netcoreapp2.2\CodingProblems.pdb
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.csprojAssemblyReference.cache
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.csproj.CoreCompileInputs.cache
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.AssemblyInfoInputs.cache
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.AssemblyInfo.cs
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.dll
+G:\Study\Projects\DotNet_C#\CodingProblems\obj\Debug\netcoreapp2.2\CodingProblems.pdb
